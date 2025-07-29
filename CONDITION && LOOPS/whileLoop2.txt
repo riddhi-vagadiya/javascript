@@ -1,0 +1,140 @@
+---While loop
+
+1. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+2. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+3. initialize;
+   while(condition){
+	ststement;
+	incre/decre
+   }
+_________________________________
+
+4. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+5. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+6. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+7. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+8. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+9. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+10. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+11. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+12. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+13. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+14. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+15. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+16. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+17. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+18. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+19. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }
+_________________________________
+
+20. initialize;
+   while(condition){
+	statement;
+	incre/decre
+   }

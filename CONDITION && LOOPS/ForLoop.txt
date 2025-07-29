@@ -1,0 +1,81 @@
+loop - for loop
+
+1. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+2. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+3. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+4. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+5. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+6. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+7. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+8. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+9. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+10. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+11. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+12. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+13. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+14. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+15. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+16. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+17. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+18. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+19. for(initialize;condition;incre/decre){
+   	statement;
+   }
+
+20. for(initialize;condition;incre/decre){
+   	statement;
+   }

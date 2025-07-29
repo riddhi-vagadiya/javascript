@@ -1,0 +1,125 @@
+// 1. Basic Symbol Creation
+const sym1 = Symbol();
+console.log(sym1); // Symbol()
+
+// 2. Symbol with Description
+const sym2 = Symbol('description');
+console.log(sym2); // Symbol(description)
+
+// 3. Symbols are unique
+const sym3 = Symbol('desc');
+const sym4 = Symbol('desc');
+console.log(sym3 === sym4); // false
+
+// 4. Using Symbol as Object Property Key
+const symKey = Symbol('key');
+const obj = {};
+obj[symKey] = 'Hello, Symbol!';
+console.log(obj[symKey]); // 'Hello, Symbol!'
+
+// 5. Symbol for a Unique Object Property
+const myObj = {
+  [Symbol('id')]: 123
+};
+console.log(myObj[Symbol('id')]); // undefined, since Symbol is unique each time
+
+// 6. Iterating over Object Symbols
+const person = {
+  name: 'John',
+  [Symbol('id')]: 1
+};
+const symbols = Object.getOwnPropertySymbols(person);
+console.log(symbols); // [Symbol(id)]
+
+// 7. Using `Symbol.for` for Global Symbol Registry
+const globalSym = Symbol.for('shared');
+const anotherSym = Symbol.for('shared');
+console.log(globalSym === anotherSym); // true
+
+// 8. Accessing Symbol Description
+const symbol = Symbol('unique');
+console.log(symbol.description); // unique
+
+// 9. Using Symbol in a Method Name
+const calculate = {
+  [Symbol('calculate')]: function(a, b) {
+    return a + b;
+  }
+};
+console.log(calculate[Symbol('calculate')](5, 7)); // 12
+
+// 10. Using Symbol to Hide Properties
+const hidden = Symbol('hidden');
+const secretObj = {
+  [hidden]: 'secret value'
+};
+console.log(secretObj[hidden]); // 'secret value'
+
+// 11. Adding Symbols to Object Prototypes
+const mySymbol = Symbol('method');
+Object.prototype[mySymbol] = function() {
+  return 'This is a symbol method';
+};
+const testObj = {};
+console.log(testObj[mySymbol]()); // 'This is a symbol method'
+
+// 12. Using Symbol in Constants
+const MAX_LENGTH = Symbol('MAX_LENGTH');
+console.log(MAX_LENGTH); // Symbol(MAX_LENGTH)
+
+// 13. Symbol for Unique Keys in Arrays
+const uniqueId = Symbol('id');
+const arr = [{ [uniqueId]: 1 }, { [uniqueId]: 2 }];
+console.log(arr[0][uniqueId]); // 1
+
+// 14. Using Symbol as a Flag
+const ACTIVE = Symbol('active');
+const user = {
+  [ACTIVE]: true
+};
+console.log(user[ACTIVE]); // true
+
+// 15. Symbol in Object Literal with Computed Property Names
+const status = Symbol('status');
+const task = {
+  [status]: 'pending',
+};
+console.log(task[status]); // 'pending'
+
+// 16. Symbol as Private Method
+const privateMethod = Symbol('private');
+const personWithPrivateMethod = {
+  [privateMethod]: function() {
+    return 'Private method';
+  }
+};
+console.log(personWithPrivateMethod[privateMethod]()); // 'Private method'
+
+// 17. Using `Symbol.hasInstance` for Custom Type Checking
+class MyClass {
+  static [Symbol.hasInstance](instance) {
+    return instance instanceof Object;
+  }
+}
+console.log({} instanceof MyClass); // true
+
+// 18. Symbol in Set Collection
+const set = new Set();
+const uniqueSymbol = Symbol('unique');
+set.add(uniqueSymbol);
+console.log(set.has(uniqueSymbol)); // true
+
+// 19. Symbols for API Keys or Namespaces
+const API_KEY = Symbol('apiKey');
+const apiObject = {
+  [API_KEY]: '123abc'
+};
+console.log(apiObject[API_KEY]); // '123abc'
+
+// 20. Using Symbol in Enum-Like Patterns
+const COLORS = {
+  RED: Symbol('red'),
+  BLUE: Symbol('blue'),
+  GREEN: Symbol('green')
+};
+console.log(COLORS.RED); // Symbol(red)

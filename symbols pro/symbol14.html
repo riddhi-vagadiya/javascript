@@ -1,0 +1,18 @@
+<html>
+<head>
+	<title>symbols</title>
+</head>
+<body>
+<script>
+
+const privateMethod = Symbol('private');
+const personWithPrivateMethod = {
+  [privateMethod]: function() {
+    return 'Private method';
+  }
+};
+document.write(personWithPrivateMethod[privateMethod]());
+	
+</script>
+</body>
+</html>

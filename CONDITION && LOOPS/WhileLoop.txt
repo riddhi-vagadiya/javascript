@@ -1,0 +1,121 @@
+-While loop
+
+1. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+2. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+3. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+4. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+5. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+6. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+7. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+8. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+9. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+10. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+11. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+12. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+13. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+14. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+15. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+16. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+17. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+18. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+19. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }
+
+20. initialize
+   while(condition){
+	ststement;
+	incre/decre
+   }

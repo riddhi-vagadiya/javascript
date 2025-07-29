@@ -1,0 +1,141 @@
+--Do While loop
+
+1. initialize;
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+2. initialize;
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+3. initialize;
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+4. initialize;
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+5. initialize;
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+6. initialize;
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+7. initialize
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+8. initialize
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+9. initialize;
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+10. initialize;
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+11. initialize
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+12. initialize
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+13. initialize;
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+14. initialize;
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+15. initialize;
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+16. initialize;
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+17. initialize;
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+18. initialize
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+19. initialize;
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)
+
+20. initialize;
+   do{
+	statement;
+	incre/decre
+   }
+   while(condition)

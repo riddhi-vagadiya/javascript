@@ -1,0 +1,1 @@
+document.write("helloo gyus, let's go to manali trip");

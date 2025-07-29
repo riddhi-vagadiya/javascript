@@ -1,0 +1,17 @@
+<html>
+<head>
+	<title>symbols</title>
+</head>
+<body>
+<script>
+
+class MyClass {
+  static [Symbol.hasInstance](instance) {
+    return instance instanceof Object;
+  }
+}
+document.write({} instanceof MyClass)
+	
+</script>
+</body>
+</html>

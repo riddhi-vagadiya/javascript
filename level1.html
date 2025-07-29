@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emoji Display</title>
+    <style>
+        body {
+            text-align: center;
+            margin-top: 50px;
+        }
+        input, button {
+            padding: 10px;
+            font-size: 16px;
+        }
+        #emojiDisplay {
+            font-size: 50px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Emoji</h1>
+    <p>Heyyy, riddhi!!</p>
+    <p>What's your mood today?</p>
+    <input type="text" id="emojiInput" placeholder="Enter emoji name">
+    <button onclick="displayEmoji()">Show Emoji</button>
+    <div id="emojiDisplay"></div>
+
+    <script>
+        function displayEmoji() {
+            const emojiMap = {
+                smile: "😊",
+                happy:"😸",
+                sleep:"😴",
+                money:"🤑",
+                smart:"😎",
+                funny:"😜",
+                hungry:"🤤",
+                lazy:"🥱",
+                flushed:"😳",
+                Nomouth:"😶",
+                confused:"😕",
+                shy:"🤭",
+                heart: "❤️",
+                thumbs_up: "👍",
+                fire: "🔥",
+                cry: "😭",
+                laugh: "😂",
+                angry: "😠",
+            };
+
+            const input = document.getElementById("emojiInput").value.toLowerCase();
+            const emoji = emojiMap[input] || "❓"; 
+            document.getElementById("emojiDisplay").textContent = emoji;
+        }
+    </script>
+</body>
+</html>

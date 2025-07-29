@@ -1,0 +1,16 @@
+<html>
+<head>
+	<title>symbols</title>
+</head>
+<body>
+<script>
+
+	const person = {
+  name: 'John',
+  [Symbol('id')]: 1
+};
+const symbols = Object.getOwnPropertySymbols(person);
+	document.write(symbols);	
+</script>
+</body>
+</html>

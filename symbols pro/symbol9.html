@@ -1,0 +1,25 @@
+<html>
+<head>
+	<title>symbols</title>
+</head>
+<body>
+<script>
+
+const mySymbol = Symbol('method');
+Object.prototype[mySymbol] = function() {
+  return 'This is a symbol method';
+};
+const testObj = {};
+document.write(testObj[mySymbol]());
+
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+

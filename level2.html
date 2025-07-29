@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emoji with Reason</title>
+    <style>
+        body {
+            text-align: center;
+            margin-top: 50px;
+        }
+        input, button {
+            padding: 10px;
+            font-size: 16px;
+        }
+        #emojiDisplay {
+            font-size: 50px;
+            margin-top: 20px;
+        }
+        #reason {
+            font-size: 18px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>How Are You Feeling?</h1>
+    <p>Enter an emotion to see your emoji and the reason:</p>
+    <input type="text" id="emojiInput" placeholder="Enter your emotion">
+    <button onclick="displayEmojiWithReason()">Show Emoji and Reason</button>
+    
+    <div id="emojiDisplay"></div>
+    <div id="reason"></div>
+
+    <script>
+        function displayEmojiWithReason() {
+            const input = document.getElementById("emojiInput").value.toLowerCase();
+            let emoji;
+            let reason;
+            
+            switch (input) {
+                case "happy":
+                    emoji = "😊";
+                    reason = "You are feeling great today!";
+                    break;
+                case "sad":
+                    emoji = "😢";
+                    reason = "You might be feeling down, it's okay to have bad days.";
+                    break;
+                case "excited":
+                    emoji = "🤩";
+                    reason = "You're thrilled and full of energy!";
+                    break;
+                case "angry":
+                    emoji = "😠";
+                    reason = "It seems like something's making you mad.";
+                    break;
+                case "surprised":
+                    emoji = "😲";
+                    reason = "Something unexpected just happened!";
+                    break;
+                case "love":
+                    emoji = "❤️";
+                    reason = "You're feeling love and affection!";
+                    break;
+                case "bored":
+                    emoji = "😒";
+                    reason = "It seems like you're feeling a little bored.";
+                    break;
+                case "shy":
+                    emoji = "😊";
+                    reason = "You're a bit shy but still staying positive!";
+                    break;
+                case "confused":
+                    emoji = "😕";
+                    reason = "You might be feeling a bit uncertain.";
+                    break;
+                    case "relaxed":
+                    emoji = "😌";
+                    reason = "You're calm and at peace with yourself.";
+                    break;
+                case "nervous":
+                    emoji = "😬";
+                    reason = "You're feeling a bit anxious or on edge.";
+                    break;
+                case "silly":
+                    emoji = "😜";
+                    reason = "You're in a playful or goofy mood!";
+                    break;
+                case "sleepy":
+                    emoji = "😴";
+                    reason = "You're feeling tired and ready for a nap.";
+                    break;
+                case "grateful":
+                    emoji = "🙏";
+                    reason = "You're feeling thankful and appreciative.";
+                    break;
+                default:
+                    emoji = "❓";
+                    reason = "Hmm... I'm not sure how you're feeling.";
+            }
+
+            document.getElementById("emojiDisplay").textContent = emoji;
+            document.getElementById("reason").textContent = reason;
+        }
+    </script>
+</body>
+</html>

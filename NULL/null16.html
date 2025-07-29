@@ -1,0 +1,19 @@
+<html>
+<head>
+	<title>javascript</title>
+</head>
+<body>
+<script>
+function getUserData(isLoggedIn) {
+    if (!isLoggedIn) {
+        return null;
+    }
+    return { name: "Alice", age: 30 };
+}
+
+let user = getUserData(false);
+document.write(user);  
+
+</script>
+</body>
+</html>

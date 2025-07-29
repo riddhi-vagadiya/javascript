@@ -1,0 +1,14 @@
+<html>
+<head>
+	<title>symbols</title>
+</head>
+<body>
+<script>
+
+	const uniqueId = Symbol('id');
+	const arr = [{ [uniqueId]: 1 }, { [uniqueId]: 2 }];
+	document.write(arr[1][uniqueId]);
+	
+</script>
+</body>
+</html>

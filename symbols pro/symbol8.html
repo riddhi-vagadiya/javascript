@@ -1,0 +1,17 @@
+<html>
+<head>
+	<title>symbols</title>
+</head>
+<body>
+<script>
+
+const calcSymbol = Symbol('calculate');
+const hidden = Symbol('hidden');
+const secretObj = {
+  [hidden]: 'secret value'
+};
+document.write(secretObj[hidden]);
+
+</script>
+</body>
+</html>

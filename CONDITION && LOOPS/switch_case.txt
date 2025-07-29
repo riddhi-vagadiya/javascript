@@ -1,0 +1,440 @@
+SWITCH.....CASE - CNDITION=2
+
+1. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+2. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+3. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+4. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+5. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+6. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+7. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+8. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+9. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+10. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+11. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+12. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+13. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+14. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+15. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+16. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+17. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+18. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+19. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }
+__________________________________________
+
+20. switch(){
+	case 1:
+	statement;
+	break;
+
+	case 2:
+	statement;
+	break;
+
+	case 3:
+	statement;
+	break;
+	.
+	.
+	.
+	.
+	.
+	deafult:
+	statement;
+   }

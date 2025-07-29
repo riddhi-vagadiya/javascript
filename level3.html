@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Birds</title>
+</head>
+<body>
+    <h1>let's play birds voice</h1>
+    <hr>
+    <img src="pecock.jpg" height="400px" onclick="playpecock()">
+    <audio src="audio1.mp3" id="pecock"></audio>
+
+    <img src="eagle.jpg" height="400px" onmouseover="playeagle()">
+    <audio src="audioe.mp3" id="eagle"></audio> <br/>
+    
+    <img src="duck.webp" height="400px" onclick="playduck()">
+    <audio src="audiod.mp3" id="duck"></audio>
+
+    <img src="sprrow.jpg" height="400px" onclick="playsprrow()">
+    <audio src="audios.mp3" id="sprrow"></audio>
+
+    <script>
+        function playpecock(){
+            console.log("play pecock")
+            document.getElementById("pecock").play();
+            }
+            
+        function playeagle(){
+            console.log("play eagle")
+            document.getElementById("eagle").play();
+            }
+            
+        function playduck(){
+            console.log("play duck")
+            document.getElementById("duck").play();
+            }
+            function playsprrow(){
+            console.log("playc sprrow")
+            document.getElementById("sprrow").play();
+            }
+    </script>
+</body>
+</html>
